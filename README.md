@@ -62,7 +62,6 @@
     ShareMarketing, Construction, Public Speaking, furniture making, interior and so much.
 -- Traveling around the world without travel planner. Plan for trips which I want to achieve one day!!!
 -- I like to Plan, Execute and Improve untill I get what I want to get out of it.
--- 
 ```
 
 <hr>
