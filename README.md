@@ -67,9 +67,9 @@
 <hr>
 
 ### Reach me out:
-<a href="https://www.facebook.com/VinayAdaki/"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/facebook.svg"></a>
-<a href="https://www.instagram.com/vinayadaki/"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/instagram.svg"></a>
-<a href="mailto:vinay.adki123@gmail.com"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/gmail.svg"></a>
-<a href="https://www.instagram.com/vinayadaki/"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/linkedin.svg"></a>
+<a href="https://www.facebook.com/VinayAdaki/"><img height="25" src="./icons/facebook.svg"></a>
+<a href="https://www.instagram.com/vinayadaki/"><img height="25" src="./icons/instagram.svg"></a>
+<a href="mailto:vinay.adki123@gmail.com"><img height="25" src="./icons/gmail.svg"></a>
+<a href="https://www.instagram.com/vinayadaki/"><img height="25" src="./icons/linkedin.svg"></a>
 
 <hr>
