@@ -1,11 +1,12 @@
 # VinayAdaki.github.io
 <p align="center"> 
-<img class="center" height="175" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/AV-Profile-Pic.jpg">
+<img class="center" height="175" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/AV-Profile-Picture.jpg.jpg">
 </p>
 <hr>
 <h2 align="center">Hello there! My name is Vinay Adaki. 👋🤓</h2>
 <p align="center">
-  I have completed my graduation Kolhapur University in the year 2010 and since then I am working in the John Deere <code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/johndeere.svg"></code> USA based company.
+  I have completed my graduation Kolhapur University in the year 2010 and since then I am working in the 
+  John Deere <code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/johndeere.svg"></code> USA based company.
   Currently I am working as Senior Lead Software Engineer in this organization.
   I have rich experiance in the Java, Web based Architecture, Development, Deployment, Customer support.
 </p>
