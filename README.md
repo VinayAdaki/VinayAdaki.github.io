@@ -6,7 +6,7 @@
 <h2 align="center">Hello there! My name is Vinay Adaki. 👋🤓</h2>
 <p align="center">
   I have completed my graduation Kolhapur University in the year 2010 and since then I am working in the 
-  John Deere <code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/johndeere.svg"></code> USA based company.
+  John Deere <code><img height="35" src="./icons/johndeere.svg"></code> USA based company.
   Currently I am working as Senior Lead Software Engineer in this organization.
   I have rich experiance in the Java, Web based Architecture, Development, Deployment, Customer support.
 </p>
@@ -27,21 +27,21 @@
 
 ### Languages and Tools:
 <code><img height="35" src="/icons/amazonaws.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/apachemaven.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/github.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/intellijidea.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/java.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/javascript.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/jenkins.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/mongodb.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/okta.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/react.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/redux.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/redis.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/sonarqube.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/spring.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/swagger.svg"></code>
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/vagrant.svg"></code>
+<code><img height="35" src="./icons/apachemaven.svg"></code>
+<code><img height="35" src="./icons/github.svg"></code>
+<code><img height="35" src="./icons/intellijidea.svg"></code>
+<code><img height="35" src="./icons/java.svg"></code>
+<code><img height="35" src="./icons/javascript.svg"></code>
+<code><img height="35" src="./icons/jenkins.svg"></code>
+<code><img height="35" src="./icons/mongodb.svg"></code>
+<code><img height="35" src="./icons/okta.svg"></code>
+<code><img height="35" src="./icons/react.svg"></code>
+<code><img height="35" src="./icons/redux.svg"></code>
+<code><img height="35" src="./icons/redis.svg"></code>
+<code><img height="35" src="./icons/sonarqube.svg"></code>
+<code><img height="35" src="./icons/spring.svg"></code>
+<code><img height="35" src="./icons/swagger.svg"></code>
+<code><img height="35" src="./icons/vagrant.svg"></code>
 
 <hr>
 
