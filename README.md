@@ -1,6 +1,6 @@
 # VinayAdaki.github.io
 <p align="center"> 
-<img class="center" height="175" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/AV-Profile-Picture.jpg">
+<img class="center" height="300" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/AV-Profile-Picture.jpg">
 </p>
 <hr>
 <h2 align="center">Hello there! My name is Vinay Adaki. 👋🤓</h2>
@@ -44,5 +44,33 @@
 <code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/vagrant.svg"></code>
 
 <hr>
+
+### Trainings and session conducted:
+```
+-- Working with gitHub
+-- Waterfall vs Agile
+-- Working with AWS S3 and ECS
+-- API gateway (Akana)
+-- OKTA (Single Sign On and OAuth Security)
+```
+
 <hr>
+
+### Pass time
+```
+-- Waching videos on Youtube and Learning through to achieve my dreams like Building MoterHome
+    ShareMarketing, Construction, Public Speaking, furniture making, interior and so much.
+-- Traveling around the world without travel planner. Plan for trips which I want to achieve one day!!!
+-- I like to Plan, Execute and Improve untill I get what I want to get out of it.
+-- 
+```
+
+<hr>
+
+### Reach me out:
+<a href="https://www.facebook.com/VinayAdaki/"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/facebook.svg"></a>
+<a href="https://www.instagram.com/vinayadaki/"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/instagram.svg"></a>
+<a href="mailto:vinay.adki123@gmail.com"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/gmail.svg"></a>
+<a href="https://www.instagram.com/vinayadaki/"><img height="25" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/linkedin.svg"></a>
+
 <hr>
