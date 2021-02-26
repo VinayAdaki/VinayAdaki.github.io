@@ -1,6 +1,6 @@
 # VinayAdaki.github.io
 <p align="center"> 
-<img class="center" height="300" src="/AV-Profile-Picture.jpg">
+<img class="center" height="300" src="./AV-Profile-Picture.jpg">
 </p>
 <hr>
 <h2 align="center">Hello there! My name is Vinay Adaki. 👋🤓</h2>
