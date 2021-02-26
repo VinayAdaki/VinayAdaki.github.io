@@ -1,6 +1,6 @@
 # VinayAdaki.github.io
 <p align="center"> 
-<img class="center" height="300" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/AV-Profile-Picture.jpg">
+<img class="center" height="300" src="/AV-Profile-Picture.jpg">
 </p>
 <hr>
 <h2 align="center">Hello there! My name is Vinay Adaki. 👋🤓</h2>
@@ -26,7 +26,7 @@
 <hr>
 
 ### Languages and Tools:
-<code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/amazonaws.svg"></code>
+<code><img height="35" src="/icons/amazonaws.svg"></code>
 <code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/apachemaven.svg"></code>
 <code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/github.svg"></code>
 <code><img height="35" src="https://github.com/VinayAdaki/VinayAdaki.github.io/blob/main/icons/intellijidea.svg"></code>
