@@ -70,6 +70,6 @@
 <a href="https://www.facebook.com/VinayAdaki/"><img height="25" src="./icons/facebook.svg"></a>
 <a href="https://www.instagram.com/vinayadaki/"><img height="25" src="./icons/instagram.svg"></a>
 <a href="mailto:vinay.adki123@gmail.com"><img height="25" src="./icons/gmail.svg"></a>
-<a href="https://www.instagram.com/vinayadaki/"><img height="25" src="./icons/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/vinay-adaki-296b2a28/"><img height="25" src="./icons/linkedin.svg"></a>
 
 <hr>
